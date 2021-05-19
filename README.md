@@ -41,7 +41,7 @@ $ softwareupdate --install-rosetta
 ## **2. Download the source code.**
 
 ```bash
-$ git clone https://github.com/solana-labs/solana.git
+$ git clone https://github.com/drew767/solana.git
 $ cd solana
 ```
 
